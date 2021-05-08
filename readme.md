@@ -4,9 +4,10 @@ Unofficial GPX und KML coordinate files based on the data from https://www.desce
 Use with care. Descente doesn't provide such files or make it easy to access the coordinates, and they will have their reasons for this. For me these files make planing more efficient, faster and safer. But 
 please don't expect the coordinates to be right and rely on them.
 
-The data is from 2019.
+The data is from 2019, but was still up to date in 2021, since the data hasn't been updated since the redesign (the necessary pages seem to be missing since the redesign).
 
-[descente-canyon-summaries.kml](./descente-canyon-summaries.kml) (the points from the summary map)  
+[descente-canyon-summaries.kml](./descente-canyon-summaries.kml) (the points from the summary map with the summary table)  
+[descente-canyon-summaries.kml](./descente-canyon-summaries-basic.kml) (the points from the summary map without the summary table, for apps that don't support html in the description)  
 [descente-canyon-positions.kml](./descente-canyon-positions.kml) (points from the canyon detail maps, entries, exists, parking, etc.)  
 [descente-canyon-positions.gpx](./descente-canyon-positions.gpx) (like the kml file, for apps that don't support kml)  
 
@@ -17,10 +18,15 @@ excellent with Locus Map on Android and probably OruxMaps (and a lot more).
 On Apple devices there is no app that comes even close to Locus or Orux. In my opinion Cartograph Pro is the 
 only decent alternative to both Android apps, but is harder to set up and use. Maps.me seems to work ok and is probably easier to use.
 
+# Changelog
+* 05.2021: added summary table to the summaries file
+* 05.2021: added summaries-basic file for apps that don't support html or have problems with the bigger amount of data
+* 05.2021: descente link now goes to the description, if a description exists (summary otherwise) 
+
 # TODO 
-* convince the descente creators that coordinate files are good thing, and that they should offer them on their site
+* convince the descente creators that coordinate files are good thing, and that they should offer them on their site and implement the function for the users to add or update coordinates and canyons (this is missing since the redesign)
+* alternative/optional points are missing
 * better icons
-* canyon summary in the description of the summary coordinates
 * fixes for different apps (?)
 * you tell me
 
