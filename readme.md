@@ -13,7 +13,7 @@ The data is from 2019, but was still up to date in 2021, since the data hasn't b
 
 # App support
 They files should work with almost every app, but not every app handles the large number of points well. They do work 
-excellent with Locus Map on Android and probably OruxMaps (and a lot more). 
+excellent with Locus Map on Android and probably OruxMaps (and a lot more). It is important to also import points with duplicate names (choose "ignore" with Locus), because the names are not unique. For example if a canyon has two entry coordinates.  
 
 On Apple devices there is no app that comes even close to Locus or Orux. In my opinion Cartograph Pro is the 
 only decent alternative to both Android apps, but is harder to set up and use. Maps.me seems to work ok and is probably easier to use.
@@ -25,8 +25,8 @@ only decent alternative to both Android apps, but is harder to set up and use. M
 
 # TODO 
 * convince the descente creators that coordinate files are good thing, and that they should offer them on their site and implement the function for the users to add or update coordinates and canyons (this is missing since the redesign)
-* alternative/optional points are missing
 * better icons
+* make the coordinate names unique (no mistakes on the import possible, also some apps might require them to be unique)
 * fixes for different apps (?)
 * you tell me
 
