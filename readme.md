@@ -19,6 +19,7 @@ On Apple devices there is no app that comes even close to Locus or Orux. In my o
 only decent alternative to both Android apps, but is harder to set up and use. Maps.me seems to work ok and is probably easier to use.
 
 # Changelog
+* 10.2021: fixed detail position points with negative values
 * 05.2021: added summary table to the summaries file
 * 05.2021: added summaries-basic file for apps that don't support html or have problems with the bigger amount of data
 * 05.2021: descente link now goes to the description, if a description exists (summary otherwise) 
