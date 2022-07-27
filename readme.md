@@ -7,7 +7,7 @@ please don't expect the coordinates to be right and rely on them.
 The data is from 2019, but was still up to date in 2021, since the data hasn't been updated since the redesign (the necessary pages seem to be missing since the redesign).
 
 [descente-canyon-summaries.kml](./descente-canyon-summaries.kml) (the points from the summary map with the summary table)  
-[descente-canyon-summaries.kml](./descente-canyon-summaries-basic.kml) (the points from the summary map without the summary table, for apps that don't support html in the description)  
+[descente-canyon-summaries-basic.kml](./descente-canyon-summaries-basic.kml) (the points from the summary map without the summary table, for apps that don't support html in the description)  
 [descente-canyon-positions.kml](./descente-canyon-positions.kml) (points from the canyon detail maps, entries, exists, parking, etc.)  
 [descente-canyon-positions.gpx](./descente-canyon-positions.gpx) (like the kml file, for apps that don't support kml)  
 
